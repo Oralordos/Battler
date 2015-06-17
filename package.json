@@ -1,0 +1,24 @@
+{
+  "name": "battler",
+  "version": "0.0.1",
+  "description": "An online battle game using Firebase",
+  "repository": {
+    "type": "git",
+    "url": "Oralordos/Battler"
+  },
+  "author": "Daniel Hoffmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oralordos/Battler/issues"
+  },
+  "private": true,
+  "homepage": "https://github.com/Oralordos/Battler#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-jshint": "^1.11.0",
+    "gulp-sass": "^2.0.1",
+    "gulp-webserver": "^0.9.1",
+    "jshint-stylish": "^2.0.0"
+  }
+}
